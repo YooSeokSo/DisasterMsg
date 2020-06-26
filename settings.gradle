@@ -1,0 +1,2 @@
+rootProject.name='DisasterMsg'
+include ':app'
